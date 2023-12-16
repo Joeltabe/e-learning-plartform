@@ -1,7 +1,7 @@
 ## aerithonex (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](CAPTURE.PNG)
+![](Capture.png)
 
 Try this out::  
 https://joeltabe.github.io/e-learning-plartform/
