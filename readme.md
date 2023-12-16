@@ -1,7 +1,7 @@
 ## LearnEd (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
+![](CAPTURE.png)
 
 Try this out::  
 https://roshan9419.github.io/LearnEd_E-learning_Website/
