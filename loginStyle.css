@@ -57,7 +57,7 @@ body {
 	position: absolute;
 	width: 110px;
 	height: 100%;
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	border-radius: 30px;
 	transition: 0.5s;
 }
@@ -118,7 +118,7 @@ body {
 	cursor: pointer;
 	display: block;
 	margin: auto;
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	color: #fff;
 	border: 0;
 	outline: none;

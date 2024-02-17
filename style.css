@@ -54,12 +54,12 @@ nav ul li a {
 nav ul li a:hover {
 	color: #fff;
 	border-radius: 5px;
-	background:  #fcb721;
+	background:    #868fdf;
 }
 .active {
 	color: #fff;
 	border-radius: 5px;
-	background: #fcb721;
+	background:   #868fdf;
 }
 .srch {
 	padding: 2px 10px;
@@ -84,12 +84,12 @@ nav ul li a:hover {
 .get-started {
 	margin-left: 50px;
 	padding: 5px 20px;
-	border: 2px solid #fcb721;
+	border: 2px solid   #868fdf;
 	border-radius: 20px;
 	text-decoration: none;
 	
 	transition: .5s;
-	background-color: #fcb721;
+	background-color:   #868fdf;
 	color: #fff;
 }
 .get-started:hover {
@@ -164,7 +164,7 @@ a, button {
 .side-menu {
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(#fa8f37, #fcb721);
+	background: linear-gradient( #0e1db0, #868fdf);
 	position: absolute;
 	top: 0;
 	transition: .8s;
@@ -372,7 +372,7 @@ a, button {
 	text-decoration: none;
 }
 .cbox .det a:hover {
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right, #0e1db0, #868fdf);
 	color: white;
 }
 .cbox .det a:hover img{
@@ -514,7 +514,7 @@ a, button {
 
 /*Contact Us Section*/
 .csec {
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right, #0e1db0, #868fdf);
 	background-attachment: fixed; 
 	position: absolute;
 	width: 100%;
@@ -579,7 +579,7 @@ form textarea {
 }
 #csubmit {
 	margin-top: 20px; 
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	border-radius: 5px;
 	border-style: none;
 	outline: none;
@@ -744,7 +744,7 @@ form textarea {
 }
 .feed #csubmit {
 	margin-top: 25px; 
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	border-radius: 5px;
 	border-style: none;
 	outline: none;
@@ -797,7 +797,7 @@ footer .right-col h1{
 footer .border{
 	width: 100px;
 	height: 4px;
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	margin: 2px;
 }
 footer .newsletter-form {
@@ -827,7 +827,7 @@ footer .btn {
 	padding: 18px 40px;
 	font-size: 16px;
 	color: #f1f1f1;
-	background: linear-gradient(to right, #fa8f37, #fcb721);
+	background: linear-gradient(to right,  #0e1db0, #868fdf);
 	border: none;
 	font-weight: 700;
 	outline: none;
